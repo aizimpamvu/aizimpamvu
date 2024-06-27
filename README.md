@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Alleluia Izimpamvu
-- 👀 I’m interested in Software Development, QA and Technical Writing
-- 🌱 I’m currently learning #100DaysOfCoding of Python by Dr Angela Yu
-- 💞️ I’m looking to collaborate on open source project in Python or PHP(Laravel), I can also collaborate on Software Quality Assurance
+- 👀 I’m interested in Software Development & SQA
 - 📫 How to reach me: aizimpamvu@gmail.com
 
 <!---
